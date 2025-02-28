@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SAPIExcel.Controllers.ExcelController",
+    "Method": "Salvar",
+    "RelativePath": "api/excel/salvar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SAPIExcel.Controllers.ExcelRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
