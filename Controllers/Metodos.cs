@@ -6,7 +6,7 @@ namespace SAPIExcel.Controllers
 {
     public class Metodos
     {
-        string caminhoArquivo = Path.Combine("/tmp", "projFin_prototipo_app.xlsx");
+        string caminhoArquivo = Path.Combine("projFin_prototipo_app.xlsx");
 
         public void SalvarNoExcel(DateTime data, int mes, int ano, decimal valor, string descricao, string categoria)
         {

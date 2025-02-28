@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIExcel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+914d7bcf11520415fe3a77e056e04aaec1bd1b2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+676b576745d2343f6185638e1284addb80f7eae0")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIExcel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIExcel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
